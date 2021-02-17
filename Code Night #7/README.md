@@ -1,13 +1,20 @@
 # Code-Night #7
 ---
-## 1P13/1P10 Computing Practicum Practice
+## 💻 1P13/1P10 Computing Practicum Practice
 
 <img src="https://www.dscsdmc.org/img/logo.png" alt="Google DSC Logo" style="height:25px;">
 
-By Google DSC McMaster U
+By Google DSC McMaster U - Community & Code
 Lead by Punya Cheema & Willie Pai
 
-### Learning Goals
+## 📑 Contents
+
+1. **[Learning Goals](#-how-it-works)**  
+2. **[Introduction](#-introduction)**
+   a. [placeholder](#discord-api)  
+3. **[placeholder](#-how-to-install)**  
+
+## 💡 Learning Goals
 
 This project covers:
 - Inputs and Outputs
@@ -35,5 +42,5 @@ This project covers:
 - Handling Exceptions
 - Object-Oriented Programming
 
-### Introduction
+### 📌 Introduction
 
