@@ -41,7 +41,8 @@ This project covers:
 - [ ] Algorithm Design
 - [ ] Handling Exceptions
 - [ ] Object-Oriented Programming
-
+- [ ] Private Variables
+- [ ] Accessors & Mutators
 ### 📌 Introduction
 
 ### How to Perform Unit Testing
