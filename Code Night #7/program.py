@@ -15,6 +15,19 @@ class Board:
     def set_tile(self, x, y):
         pass
 
+    def print_board(self, with_alive_ships):
+        """
+        Print the entire board in a 5x5 grid, each tile separated with "\t".
+        Use the following convention:
+        "O" - miss
+        "X" - a hit ship
+        "." - empty
+
+        Display un-hit, alive ships with an "S" if an donly if with_alive_ships is True,
+        otherwise, display "."
+        """
+        pass
+
 class Ship:
 
     __location: List[int]
@@ -35,6 +48,9 @@ class Ship:
         pass
 
     def get_destroyed(self):
+        """
+        Returns true if and only if the ship is destryoed
+        """
         pass
 
     def set_destroyed(self):
@@ -68,9 +84,6 @@ def check_turn(player_1, player_2, turn_number):
     """
     Return a string of the name of the player who's turn it is currently,
     based on the current turn_number. Player 1 always starts on turn #1.
-
-    Pre-conditions:
-    - turn_number >= 1
     """
     pass
 
