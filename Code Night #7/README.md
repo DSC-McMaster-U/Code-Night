@@ -45,6 +45,10 @@ This project covers:
 - [ ] Accessors & Mutators
 ### 📌 Introduction
 
+### Board Outline
+
+
+
 ### How to Perform Unit Testing
 
 **1. Download the test file**
