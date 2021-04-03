@@ -12,4 +12,5 @@ def problem1(account_balance, num_transactions, credit_score):
     return account_balance
 
 
+# Test case
 print(problem1(2389.53, 13, 300))

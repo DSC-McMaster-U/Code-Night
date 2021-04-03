@@ -17,4 +17,5 @@ def problem2(num_list):
     return int(result)
 
 
+# Test case
 print(problem2([1, 7, 2]))

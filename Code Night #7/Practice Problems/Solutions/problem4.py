@@ -6,4 +6,5 @@ def problem4(matrix):
     return result
 
 
-print(problem4([[21, 53, 68], [83, 64, 69], [27, 12, 32]]))
+# Test case
+print(problem4([[0, 1, 1], [2, 0, 2], [3, 3, 0]]))
