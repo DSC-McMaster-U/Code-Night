@@ -9,6 +9,8 @@ def problem1(account_balance, num_transactions, credit_score):
         account_balance -= x
     if num_transactions < 2 or num_transactions > 10:
         account_balance -= y*num_transactions
+    if account_balance < 0:
+        return "Your balance is negative"
     return account_balance
 
 
