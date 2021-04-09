@@ -1,8 +1,8 @@
 # Solution 1
 def problem2(num_list):
-    num_list.sort(reverse=True)
+    sorted_list = sorted(num_list, reverse=True)
     result = ""
-    for num in num_list:
+    for num in sorted_list:
         result += str(num)
     return int(result)
 
